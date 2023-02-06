@@ -6,4 +6,4 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/@garrypas/my-test
+      - uses: garrypas/.github/workflows/my-test
