@@ -6,4 +6,4 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: garrypas/test
+      - uses: garrypas/workflow-templates/test.yml
