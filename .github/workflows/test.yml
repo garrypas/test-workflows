@@ -4,4 +4,4 @@ on: [ push ]
 
 jobs:
   build:
-    uses: test-workflow@v1.0.4
+    - uses: test-workflow@v1.0.4
