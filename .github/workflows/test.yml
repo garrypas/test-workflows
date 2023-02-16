@@ -4,4 +4,4 @@ on: [ push ]
 
 jobs:
   build:
-    - uses: garrypas/test-workflow@v1.0.4
+    - uses: garrypas/.github/workflows/test-workflow.yml@main
